@@ -1,4 +1,3 @@
-remove lines after each section it look it is copying# Online Payment Fraud Detection using Machine Learning
 
 ## Overview
 
